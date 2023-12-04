@@ -1,5 +1,3 @@
 [workspace]
-members = [
-  "server",
-  "client"
-]
+members = ["server", "client"]
+resolver = "2"
